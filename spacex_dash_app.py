@@ -27,7 +27,7 @@ app.layout = html.Div(children=[html.H1('SpaceX Launch Records Dashboard',
                                                 {'label': 'Cape Canaveral LC', 'value':'CCAFS LC-40'},
                                                 {'label': 'Cape Canaveral SLC', 'value':'CCAFS SLC-40'},
                                                 {'label': 'Kennedy Space Center', 'value':'KSC LC-39A'},
-                                                {'label': 'All Sites', 'value':'ALL'}
+                                                {'label': 'All Sites', 'value':'All Sites'}
                                             ], 
                                             value = 'All Sites', 
                                             placeholder = "Select a Launch Site here", 
